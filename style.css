@@ -1,0 +1,20 @@
+head{
+    background-image: url("https://thumbs.dreamstime.com/z/happy-birthday-gift-box-color-background-happy-birthday-gift-box-color-background-121355558.jpg");
+    font-family:'Josefin Slab',serif !important;
+}
+
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/happy-birthday-gift-box-color-background-happy-birthday-gift-box-color-background-121355558.jpg");
+    font-family:'Josefin Slab',serif !important;
+}
+
+button{
+    background-color:#ECE5DD;
+    width:170px;
+    height:40px;
+    margin-top:20px;
+    font-size:25px;
+    font-family:'Josefin Slab',serif;
+    border-radius:50px;
+    box-shadow: none;
+}
